@@ -14,7 +14,7 @@ running the Netflix files:
     5. knn_euclidean_manhattan_comparison.py     -> run time ~= 1 minute
     
 My overall goals, comparisons of KNN implementations, and outcomes can be found in the 
-attached report named "FinalReport.pdf"
+attached report [here](https://github.com/MayasaurusRex/KNN_algorithms/blob/master/FinalProject.pdf).
 
 
 ADDITIONAL NOTES ON THE NETFLIX DATASET
@@ -31,7 +31,6 @@ in these files, what they represent, and more information about the challenge.
 I wanted to compare KNN implementations using Euclidean and Manhattan distance
 calculations and did so by applying two different KNN algorithms with the same 
 k value (k = 10). Then, I performed RMSE calculations to see how close the data
-was to the prediction and also calculated the accuracy to see how many data    
-points were exactly correct.
+was to the prediction and also calculated the accuracy to see how many data points were exactly correct.
 
-Additional information about the Netflix dataset and challenge can be found [here](https://github.com/MayasaurusRex/KNN_algorithms/blob/master/Netflix_Dataset/Netflix_Prize_Instructions.txt)
+Additional information about the Netflix dataset and challenge can be found [here](https://github.com/MayasaurusRex/KNN_algorithms/blob/master/Netflix_Dataset/Netflix_Prize_Instructions.txt).
