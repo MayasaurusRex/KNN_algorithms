@@ -7,11 +7,14 @@ the Iris dataset and the Netflix dataset.
 The Iris dataset can be run on it's own, but please follow this order for
 running the Netflix files:
 
-    1. create_test_file.ipynb                       -> run time ~= 2 minutes
-    2. create_true_ratings_file.ipynb               -> run time ~= 2 minutes
-    3. knn_euclidean_ratings.ipynb                  -> run time ~= 3 hours
-    4. knn_manhattan_ratings.ipynb                  -> run time ~= 3 hours
-    5. knn_euclidean_manhattan_comparison.ipynb     -> run time ~= 1 minute
+    1. create_test_file.py                       -> run time ~= 2 minutes
+    2. create_true_ratings_file.py               -> run time ~= 2 minutes
+    3. knn_euclidean_ratings.py                  -> run time ~= 3 hours
+    4. knn_manhattan_ratings.py                  -> run time ~= 3 hours
+    5. knn_euclidean_manhattan_comparison.py     -> run time ~= 1 minute
+    
+My overall goals, comparisons of KNN implementations, and outcomes can be found in the 
+attached report named "FinalReport.pdf"
 
 
 ADDITIONAL NOTES ON THE NETFLIX DATASET
@@ -31,3 +34,4 @@ k value (k = 10). Then, I performed RMSE calculations to see how close the data
 was to the prediction and also calculated the accuracy to see how many data    
 points were exactly correct.
 
+Additional information about the Netflix dataset can be found [here](
