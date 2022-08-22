@@ -34,4 +34,4 @@ k value (k = 10). Then, I performed RMSE calculations to see how close the data
 was to the prediction and also calculated the accuracy to see how many data    
 points were exactly correct.
 
-Additional information about the Netflix dataset can be found [here](
+Additional information about the Netflix dataset and challenge can be found [here](https://github.com/MayasaurusRex/KNN_algorithms/blob/master/Netflix_Dataset/Netflix_Prize_Instructions.txt)
